@@ -16,6 +16,11 @@
     "url": "https://github.com/mikoshu/vue-component-datepicker/issues",
     "email": "452753617@qq.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikoshu/vue-component-datepicker.git"
+  },
+  "homepage": "https://github.com/mikoshu/vue-component-datepicker#readme",
   "files": [
     "dist/*",
     "src/*"
@@ -23,7 +28,8 @@
   "keywords": [
     "vue",
     "datePicker",
-    "mobile"
+    "element",
+    "date"
   ],
   "dependencies": {
     "core-js": "^2.6.5",
