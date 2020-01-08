@@ -12,6 +12,10 @@
     "build-bundle": "vue-cli-service build --target lib --name datePicker ./src/index.js",
     "lint": "vue-cli-service lint"
   },
+  "bugs": {
+    "url": "https://github.com/mikoshu/vue-component-datepicker/issues",
+    "email": "452753617@qq.com"
+  },
   "files": [
     "dist/*",
     "src/*"
