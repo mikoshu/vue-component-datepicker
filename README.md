@@ -9,7 +9,7 @@
 
 ## 样式
 
-![示例图片](http://blog.mikoshu.me/wp-content/uploads/2020/01/el-500x435.jpg '示例图片')
+![示例图片](./public/el.jpg '示例图片')
 
 
 
