@@ -9,7 +9,7 @@
 
 ## 样式
 
-![示例图片](./public/el.jpg '示例图片')
+![示例图片](https://raw.githubusercontent.com/mikoshu/vue-component-datepicker/master/public/el.jpg '示例图片')
 
 
 
