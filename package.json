@@ -1,7 +1,7 @@
 {
   "name": "vue-el-datepicker",
   "description": "仿element-ui日期选择器弹窗部分",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "miko<452753617@qq.com>",
   "license": "MIT",
   "private": false,
